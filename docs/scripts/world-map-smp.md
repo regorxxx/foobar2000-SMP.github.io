@@ -4,7 +4,7 @@ hide: navigation
 
 # Playlist Manager
 
-[Download :material-download:](https://github.com/marc2k3/foo_cover_info/releases){ .md-button }
+[Download :material-download:](https://github.com/regorxxx/Playlist-Manager-SMP){ .md-button }
 
 ## Overview
 
