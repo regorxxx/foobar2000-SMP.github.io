@@ -1,0 +1,46 @@
+site_name: regorxxx
+copyright: Copyright &copy; 2022 regorxxx
+theme:
+  name: material
+  icon:
+    logo: material/home
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+  palette:
+    - scheme: default
+      primary: pink
+      accent: pink
+      toggle:
+        icon: material/lightbulb-outline
+        name: "Switch to dark mode"
+    - scheme: slate
+      primary: pink
+      accent: pink
+      toggle:
+        icon: material/lightbulb
+        name: "Switch to light mode"
+markdown_extensions:
+  - admonition
+  - attr_list
+  - meta
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji 
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+  - pymdownx.highlight
+  - pymdownx.superfences
+  - toc:
+      permalink: "#"
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/regorxxx
+extra_css:
+  - stylesheets/extra.css
+nav:
+  - foobar2000 Scripts: index.md
+  - Playlist Manager: scripts/playlist-manager-smp.md
+  - Search by Distance: scripts/search-by-distance-smp.md
+  - Playlist Tools: scripts/playlist-tools-smp.md
+  - Device Priority: scripts/device-priority-smp.md
+  - World Map: scripts/world-map-smp.md
