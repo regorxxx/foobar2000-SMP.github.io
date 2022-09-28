@@ -8,17 +8,19 @@ theme:
     - navigation.tabs
     - navigation.tabs.sticky
   palette:
+	# Palette toggle for dark mode
     - scheme: slate
-      primary: pink
-      accent: pink
+      primary: deep purple
+      accent: indigo
       toggle:
-        icon: material/lightbulb
+        icon: material//brightness-7
         name: "Switch to light mode"
+	# Palette toggle for light mode
     - scheme: default
-      primary: pink
-      accent: pink
+      primary: deep purple
+      accent: indigo
       toggle:
-        icon: material/lightbulb-outline
+        icon: material/brightness-4
         name: "Switch to dark mode"
 markdown_extensions:
   - admonition
