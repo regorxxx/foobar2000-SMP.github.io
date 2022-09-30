@@ -41,5 +41,5 @@ placeholders tags are substituted with the actual values of the currently select
 !!! question
 	Compatible with (toolbar):  
     - [Device Priority](scripts/device-priority-smp): Automates foobar2000's output devices.  
-    - [Search by Distance](scripts/search-by-distance-smp): creates intelligent "spotify-like"
+    - [Search by Distance](scripts/search-by-distance-smp): Creates intelligent "spotify-like"
 	playlist. Built-in here.  
