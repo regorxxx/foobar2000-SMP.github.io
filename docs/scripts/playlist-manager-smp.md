@@ -31,7 +31,7 @@ to save and load (auto)playlists on demand, synchronizing, ... along many more u
 
 ![Playlist Manager UI](../images/pm.gif)
 
-!!! note
+!!! warning
 	.fpl playlists (native format) are read only and can not be auto-saved since
 	the format is closed source and there are no methods on Spider Monkey Panel
 	to save them on a path (without showing the 'save as' window), neither load

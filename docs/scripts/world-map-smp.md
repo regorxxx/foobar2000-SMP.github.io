@@ -14,7 +14,7 @@ which displays current artist's country on the world map and lets you generate
 autoplaylists based on selection and locale tag saving when integrated along
  [WilB's Biography Script](https://github.com/Wil-B/Biography).
 
-![World Map](../images/wm_ui.png)
+![World Map UI](../images/wm_ui.png)
  
 - Map image configurable:
 	- Full.
@@ -35,9 +35,9 @@ autoplaylists based on selection and locale tag saving when integrated along
 - AutoPlaylist creation on click over a point with any artist on your library from the selected country.
 - Fully Wine - Unix - non IE SOs compatible.
 
-![World Map](../images/wm.gif)
+![World Map usage](../images/wm.gif)
 
-!!! note
+!!! warning
 	Country tags must be previously present on the files, provided by a third party
 	script or on a JSON database. In case the script will be used in an offline
 	foobar2000 installation, with no Biography script provider, it's recommended to
