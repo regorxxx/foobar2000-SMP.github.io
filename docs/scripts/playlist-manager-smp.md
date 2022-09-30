@@ -8,8 +8,9 @@ hide: navigation
 
 ## Overview
 
-A playlist manager for foobar2000 and Spider Monkey Panel to save and load
-(auto)playlists on demand, synchronizing, ... along many more utilities.
+A playlist manager for [foobar2000](https://www.foobar2000.org/) and 
+[Spider Monkey Panel](https://theqwertiest.github.io/foo_spider_monkey_panel/)
+to save and load (auto)playlists on demand, synchronizing, ... along many more utilities.
 
 - Manages Playlist files and AutoPlaylists.
 - AutoPlaylists: contains all functionality on Auto-playlist Manager by marc2003 plus more.
@@ -28,6 +29,8 @@ A playlist manager for foobar2000 and Spider Monkey Panel to save and load
 	entries, which allows to bind them to keyboard shortcuts, toolbar buttons
 	or executing them using command line.
 
+![Playlist Manager UI](../images/pm.gif)
+	
 !!! note
 	.fpl playlists (native format) are read only and can not be auto-saved since
 	the format is closed source and there are no methods on Spider Monkey Panel

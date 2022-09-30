@@ -2,37 +2,38 @@
 hide: navigation
 ---
 
-# Playlist Manager
+# Decice Priority
 
-[Download :material-download:](https://github.com/regorxxx/Playlist-Manager-SMP){ .md-button }
+[Download :material-download:](https://github.com/regorxxx/Device-Priority-SMP){ .md-button }
 
 ## Overview
 
-A playlist manager for foobar2000 and Spider Monkey Panel to save and load
-(auto)playlists on demand, synchronizing, ... along many more utilities.
+[Spider Monkey Panel](https://theqwertiest.github.io/foo_spider_monkey_panel/) script
+ for [foobar2000](https://www.foobar2000.org/), built within a button. 
+ Automate foobar2000's output without having to select devices manually every time one
+ is disconnected/connected. Wireless, headphone, and server devices auto-switch made easy.
 
-- Manages Playlist files and AutoPlaylists.
-- AutoPlaylists: contains all functionality on Auto-playlist Manager by marc2003 plus more.
-- Smart Playlists: contains all functionality found on XBMC or Kodi:
-- Complete documentation, FAQ and step by step guide (see 'readmes\playlist_manager.pdf').
-- Loads .m3u8, .m3u and .pls playlists x100 times faster than standard foobar.
-- Multiple exporting options: compatible with Foobar2000 mobile, Kodi and XBMC systems, etc.
-- Playlist Tags and actions. Track Auto-tagging.
-- Filters & Sorting.
-- Configurable UI.
+
+- Export Device List: after connecting all devices desired to be used at some point,
+ the list can be exported to be able to set them at a later point as prioritized devices
+ (even if they are not connected).
+- 1-5 slots for prioritized devices: set the order in which the devices must be set as output.
+ Device 1 would be used (if available) before Device 2 and so on...
+- Server friendly: some wireless devices pause playback when they are disconnected, 
+thus requiring to manually start playback again even if the device has been changed 
+(manually or automatically). The script checks if playback is paused after swapping 
+devices and will continue it automatically in those cases for a seamless change 
+between devices when you switch them off/on.
 - Fully Wine - Unix - non IE SOs compatible.
-- Other scripts integration:
-	* Playlist-Tools-SMP: Pools may use tracks from playlists files.
-    * ajquery-xxx: Online controller fully compatible with the manager.
-    * SMP Dynamic menus: Playlist actions are also available as main menu
-	entries, which allows to bind them to keyboard shortcuts, toolbar buttons
-	or executing them using command line.
 
-!!! note
-	.fpl playlists (native format) are read only and can not be auto-saved since
-	the format is closed source and there are no methods on Spider Monkey Panel
-	to save them on a path (without showing the 'save as' window), neither load
-	them as handle lists.
+The button can be loaded within a toolbar or as an independent button. 
+It's fully compatible with my other scripts which also use a toolbar (see at bottom), 
+so the button can be simply merged with your already existing toolbar panel easily.
+	
+![Device Priority](../images/dp.gif)
 
-	Tracking playlists within a network drive requires additional steps to make use
-	of the Recycle Bin. See Readme (pdf).
+!!! Compatible with (toolbar):
+    - [Search by Distance](scripts/search-by-distance-smp): creates intelligent "spotify-like"
+	playlist using high-level data from tracks and computing their similarity using genres/styles.
+    - [Playlist Tools](scripts/playlist-tools-smp): Offers different pre-defefined examples for 
+	intelligent playlist creation.
