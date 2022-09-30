@@ -39,7 +39,9 @@ autoplaylists based on selection and locale tag saving when integrated along
 
 !!! warning
 	Country tags must be previously present on the files, provided by a third party
-	script or on a JSON database. In case the script will be used in an offline
-	foobar2000 installation, with no Biography script provider, it's recommended to
-	tag previously your files and/or use a pre-filled JSON database. One is provided
-	as example at: 'presets\World Map\worldMap.json'
+	script or on a JSON database. 
+	
+	In case the script will be used in an offline foobar2000 installation, 
+	with no Biography script provider, it's recommended to
+	tag previously your files and/or use a pre-filled JSON database.  
+	One is provided	as example at: 'presets\World Map\worldMap.json'

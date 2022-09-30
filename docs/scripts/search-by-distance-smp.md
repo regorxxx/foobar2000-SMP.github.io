@@ -49,9 +49,7 @@ There are 3 methods to calculate similarity between tracks: WEIGHT, GRAPH (see a
 ![Search by Distance Graph](../images/sbd_graph.gif)
 
 !!! question
-	Compatible with (toolbar):
-	
-    - [Device Priority](scripts/device-priority-smp): Automates foobar2000's output devices.
-	
+	Compatible with (toolbar):  
+    - [Device Priority](scripts/device-priority-smp): Automates foobar2000's output devices.  
     - [Playlist Tools](scripts/playlist-tools-smp): Offers different pre-defefined examples for 
-	intelligent playlist creation.
+	intelligent playlist creation.  
