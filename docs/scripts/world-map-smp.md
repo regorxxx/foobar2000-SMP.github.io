@@ -14,7 +14,7 @@ which displays current artist's country on the world map and lets you generate
 autoplaylists based on selection and locale tag saving when integrated along
  [WilB's Biography Script](https://github.com/Wil-B/Biography).
 
-![World Map](../images/wm_ui.gif)
+![World Map](../images/wm_ui.png)
  
 - Map image configurable:
 	- Full.

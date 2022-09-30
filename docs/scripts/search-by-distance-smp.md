@@ -22,8 +22,8 @@ according to score, randomly, using harmonic rules, etc. All settings are config
 via button's menus (on customizable button) or the properties panel (static buttons).
 
 !!! note
-To use this plugin at its best and to benefit the most from your library, you will want to 
-make sure that your songs have the most possible information on genre, style, key, moods, etc.
+	To use this plugin at its best and to benefit the most from your library, you will want to 
+	make sure that your songs have the most possible information on genre, style, key, moods, etc.
 
 ![Search by Distance Methods](../images/sbd_methods.png)
 
@@ -48,7 +48,8 @@ There are 3 methods to calculate similarity between tracks: WEIGHT, GRAPH (see a
 
 ![Search by Distance Graph](../images/sbd_graph.gif)
 
-!!! Compatible with (toolbar):
+!!! note
+	Compatible with (toolbar):
     - [Device Priority](scripts/device-priority-smp): Automates foobar2000's output devices.
     - [Playlist Tools](scripts/playlist-tools-smp): Offers different pre-defefined examples for 
 	intelligent playlist creation.

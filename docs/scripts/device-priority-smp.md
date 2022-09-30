@@ -32,7 +32,8 @@ so the button can be simply merged with your already existing toolbar panel easi
 	
 ![Device Priority](../images/dp.gif)
 
-!!! Compatible with (toolbar):
+!!! note
+	Compatible with (toolbar):
     - [Search by Distance](scripts/search-by-distance-smp): creates intelligent "spotify-like"
 	playlist using high-level data from tracks and computing their similarity using genres/styles.
     - [Playlist Tools](scripts/playlist-tools-smp): Offers different pre-defefined examples for 

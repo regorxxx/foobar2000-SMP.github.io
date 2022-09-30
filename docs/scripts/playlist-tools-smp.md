@@ -17,11 +17,11 @@ Scripts for [foobar2000](https://www.foobar2000.org/), built within a menu, whic
 The collection of scripts provided here are not only a direct replacement of Random Pools or
  MusicIp but an improvement and generalization in many aspects of those tools.
  
-![Playlist Tools example 1](../images/ pt_01.gif)
+![Playlist Tools example 1](../images/pt_01.gif)
  
 !!! note
-To use this plugin at its best and to benefit the most from your library, you will want to 
-make sure that your songs have the most possible information on genre, style, key, moods, etc.
+	To use this plugin at its best and to benefit the most from your library, you will want to 
+	make sure that your songs have the most possible information on genre, style, key, moods, etc.
 
 - Macros: allows to record and save the menus entries used, as a macro, to be called later.
 - Dynamic Queries: queries which adapt to the currently selected track. i.e. 
@@ -36,9 +36,10 @@ placeholders tags are substituted with the actual values of the currently select
 - Configurable UI and accessibility design: most of the UI is configurable (size, colors, position, draggable buttons).
  All the UI is managed within menus, so it may be used with a narrator (for blindness).
 
-![Playlist Tools example 2](../images/ pt_02.gif)
+![Playlist Tools example 2](../images/pt_02.gif)
  
-!!! Compatible with (toolbar):
+!!! note
+	Compatible with (toolbar):
     - [Device Priority](scripts/device-priority-smp): Automates foobar2000's output devices.
     - [Search by Distance](scripts/search-by-distance-smp): creates intelligent "spotify-like"
 	playlist. Built-in here.
