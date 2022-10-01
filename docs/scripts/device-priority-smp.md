@@ -2,7 +2,7 @@
 hide: navigation
 ---
 
-# Decice Priority
+# Device Priority
 
 [Download :material-download:](https://github.com/regorxxx/Device-Priority-SMP){ .md-button }
 
