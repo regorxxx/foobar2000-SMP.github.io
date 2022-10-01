@@ -2,7 +2,7 @@
 hide: navigation
 ---
 
-# foobar2000 Scripts
+# Foobar200 scripts available
 
 These scripts are meant for [foobar2000](https://www.foobar2000.org/) and
  [Spider Monkey Panel](https://theqwertiest.github.io/foo_spider_monkey_panel/).
