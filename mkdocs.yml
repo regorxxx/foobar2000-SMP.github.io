@@ -43,5 +43,6 @@ nav:
   - Playlist Manager: scripts/playlist-manager-smp.md
   - Playlist Tools: scripts/playlist-tools-smp.md
   - Device Priority: scripts/device-priority-smp.md
+  - ListenBrainz: scripts/listenbrainz-smp.md
   - World Map: scripts/world-map-smp.md
   - Search by Distance: scripts/search-by-distance-smp.md
