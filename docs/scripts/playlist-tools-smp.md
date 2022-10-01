@@ -43,3 +43,4 @@ placeholders tags are substituted with the actual values of the currently select
     - [Device Priority](scripts/device-priority-smp): Automates foobar2000's output devices.  
     - [Search by Distance](scripts/search-by-distance-smp): Creates intelligent "spotify-like"
 	playlist. Built-in here.  
+	- [ListenBrainz](scripts/listenbrainz-smp): Integrates Listenbrainz's feedback and recommendations.  
