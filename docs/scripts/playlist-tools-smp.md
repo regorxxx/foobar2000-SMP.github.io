@@ -18,11 +18,12 @@ The collection of scripts provided here are not only a direct replacement of Ran
  MusicIp but an improvement and generalization in many aspects of those tools.
  
 ![Playlist Tools example 1](../images/pt_01.gif)
- 
+
 !!! note
 	To use this plugin at its best and to benefit the most from your library, you will want to 
 	make sure that your songs have the most possible information on genre, style, key, moods, etc.
 
+### Features
 - Macros: allows to record and save the menus entries used, as a macro, to be called later.
 - Dynamic Queries: queries which adapt to the currently selected track. i.e. 
 placeholders tags are substituted with the actual values of the currently selected track.
@@ -38,7 +39,12 @@ placeholders tags are substituted with the actual values of the currently select
  All the UI is managed within menus, so it may be used with a narrator (for blindness).
 
 ![Playlist Tools example 2](../images/pt_02.gif)
- 
+
+### Buttons bar
+The button can be loaded within a toolbar or as an independent button. 
+It's fully compatible with my other scripts which also use a toolbar (see at bottom), 
+so the button can be simply merged with your already existing toolbar panel easily.
+
 !!! question
 	Compatible with (toolbar):  
     - [Device Priority](scripts/device-priority-smp): Automates foobar2000's output devices.  

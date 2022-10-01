@@ -16,6 +16,7 @@ and computing their similarity using genres/styles.
 
 ![Search by Distance example](../images/sbd_example.gif)
 
+### Features
 Creates playlists using high-level data from tracks similar to the currently selected one 
 according to genre, style, key, etc. You can choose whether this final selection is done 
 according to score, randomly, using [Harmonic mixing](https://en.wikipedia.org/wiki/Harmonic_mixing)
@@ -26,6 +27,7 @@ according to score, randomly, using [Harmonic mixing](https://en.wikipedia.org/w
 	To use this plugin at its best and to benefit the most from your library, you will want to 
 	make sure that your songs have the most possible information on genre, style, key, moods, etc.
 
+### Similarity methods
 ![Search by Distance Methods](../images/sbd_methods.png)
 
 There are 3 methods to calculate similarity between tracks: WEIGHT, GRAPH (see above) and DYNGENRE.

@@ -15,7 +15,8 @@ autoplaylists based on selection and locale tag saving when integrated along
  [WilB's Biography Script](https://github.com/Wil-B/Biography).
 
 ![World Map UI](../images/wm_ui.png)
- 
+
+### Features
 - Map image configurable:
 	- Full.
 	- No Antarctica.

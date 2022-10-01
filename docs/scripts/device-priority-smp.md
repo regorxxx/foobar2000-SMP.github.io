@@ -13,6 +13,9 @@ hide: navigation
  Automate foobar2000's output without having to select devices manually every time one
  is disconnected/connected. Wireless, headphone, and server devices auto-switch made easy.
 
+![Device Priority](../images/dp.gif)
+
+### Features
 - Export Device List: after connecting all devices desired to be used at some point,
  the list can be exported to be able to set them at a later point as prioritized devices
  (even if they are not connected).
@@ -25,12 +28,11 @@ devices and will continue it automatically in those cases for a seamless change
 between devices when you switch them off/on.
 - Fully Wine - Unix - non IE SOs compatible.
 
+### Buttons bar
 The button can be loaded within a toolbar or as an independent button. 
 It's fully compatible with my other scripts which also use a toolbar (see at bottom), 
 so the button can be simply merged with your already existing toolbar panel easily.
 	
-![Device Priority](../images/dp.gif)
-
 !!! question
 	Compatible with (toolbar):  
     - [Search by Distance](scripts/search-by-distance-smp): Creates intelligent "spotify-like"

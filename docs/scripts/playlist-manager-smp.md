@@ -14,6 +14,7 @@ to save and load (auto)playlists on demand, synchronizing, ... along many more u
 
 ![Playlist Manager UI](../images/pm.gif)
 
+### Features
 - Manages Playlist files and AutoPlaylists.
 - AutoPlaylists: contains all functionality on Auto-playlist Manager by marc2003 plus more.
 - Smart Playlists: contains all functionality found on XBMC or Kodi.
