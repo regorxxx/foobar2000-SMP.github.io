@@ -18,8 +18,9 @@ and computing their similarity using genres/styles.
 
 Creates playlists using high-level data from tracks similar to the currently selected one 
 according to genre, style, key, etc. You can choose whether this final selection is done 
-according to score, randomly, using harmonic rules, etc. All settings are configurable 
-via button's menus (on customizable button) or the properties panel (static buttons).
+according to score, randomly, using [Harmonic mixing](https://en.wikipedia.org/wiki/Harmonic_mixing)
+ rules, etc. All settings are configurable via button's menus (on customizable button) 
+ or the properties panel (static buttons).
 
 !!! note
 	To use this plugin at its best and to benefit the most from your library, you will want to 

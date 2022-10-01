@@ -27,6 +27,7 @@ The collection of scripts provided here are not only a direct replacement of Ran
 - Dynamic Queries: queries which adapt to the currently selected track. i.e. 
 placeholders tags are substituted with the actual values of the currently selected track.
 - Pools: playlist creation similar to Random Pools component.  playlists \ library sources (pools) can be set.
+- [Harmonic mixing](https://en.wikipedia.org/wiki/Harmonic_mixing): Dj-like selection ordering by key or with special patterns. Compatible with Camelot, Open and Standard keys.
 - Fully configurable submenu entries: shift + left click on menu button allows to switch tools functionality.
 - User configurable presets: many tools allow you to add your own presets (for ex. Standard Queries) as menu entries.
 - Keyboard shortcuts: keyboard shortcuts may be assigned to most of the tools (without requiring panel to be in focus).
