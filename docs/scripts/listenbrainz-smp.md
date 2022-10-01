@@ -13,10 +13,14 @@ An implementation of [ListenBrainz](https://listenbrainz.org/) for [foobar2000](
  which allows to retrieve/set feedback for tracks within foobar2000 library and create
  playlists based on user or site-wide recommendations statistics.
 
+!!! warning
+	Listens sync is not managed by this script. It's recommended to use
+	[foo_listenbrainz2](https://github.com/phw/foo_listenbrainz2).
+ 
 The button can be loaded within a toolbar or as an independent button. 
 It's fully compatible with my other scripts which also use a toolbar (see at bottom), 
 so the button can be simply merged with your already existing toolbar panel easily.
-	
+
 ![ListenBrainz](../images/lb.gif)
 
 !!! question
