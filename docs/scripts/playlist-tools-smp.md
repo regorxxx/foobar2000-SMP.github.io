@@ -41,9 +41,10 @@ placeholders tags are substituted with the actual values of the currently select
 ![Playlist Tools example 2](../images/pt_02.gif)
 
 ### Buttons bar
-The button can be loaded within a toolbar or as an independent button. 
+The script features a collection of buttons and a main one named 'Playlist Tools'. All of them 
+can be loaded within a toolbar or as independent buttons per panel. 
 It's fully compatible with my other scripts which also use a toolbar (see at bottom), 
-so the button can be simply merged with your already existing toolbar panel easily.
+so the buttons can be simply merged with your already existing toolbar panel easily.
 
 !!! question
 	Compatible with (toolbar):  
