@@ -2,7 +2,7 @@
 hide: navigation
 ---
 
-# Foobar2000 scripts available
+# foobar2000 scripts
 
 These scripts are meant for [foobar2000](https://www.foobar2000.org/) and
  [Spider Monkey Panel](https://theqwertiest.github.io/foo_spider_monkey_panel/).
@@ -18,7 +18,7 @@ These scripts are meant for [foobar2000](https://www.foobar2000.org/) and
 
 Unless otherwise stated, they should work on any foobar2000 version equal or greater than 1.4.
 
-# Other Foobar2000 addons
+# Other foobar2000 addons
 
 |Addon|Version|Related to|Release Date|Description|
 |:---|:---|:---|:---|:---|
