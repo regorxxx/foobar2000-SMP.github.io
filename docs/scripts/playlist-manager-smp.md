@@ -18,7 +18,7 @@ to save and load (auto)playlists on demand, synchronizing, ... along many more u
 - Manages Playlist files and AutoPlaylists.
 - AutoPlaylists: contains all functionality on Auto-playlist Manager by marc2003 plus more.
 - Smart Playlists: contains all functionality found on XBMC or Kodi.
-- [ListenBrainz](https://listenbrainz.org/) integration: sync user playlists import by playlist's MBID and track content resolution by Title, Recording MBID, ....
+- [ListenBrainz](https://listenbrainz.org/) integration: sync user's playlists, import by playlist's MBID; track content resolution by Title, Recording MBID, ....
 - Complete documentation, FAQ and step by step guide (see 'readmes\playlist_manager.pdf').
 - Loads .m3u8, .m3u and .pls playlists x100 times faster than standard foobar.
 - Multiple exporting options: compatible with Foobar2000 mobile, Kodi and XBMC systems, etc.
