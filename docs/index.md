@@ -21,5 +21,5 @@ Unless otherwise stated, they should work on any foobar2000 version equal or gre
 # Other Foobar2000 addons
 
 |Script|Version|Related to|Release Date|Description|
-|:---|:---|:---|:---|
+|:---|:---|:---|:---|:---|
 |[ajquery-xxx](scripts/ajquery-xxx)|v0.92|[foo_httpcontrol](https://bitbucket.org/oblikoamorale/foo_httpcontrol/wiki/Home)|29th September 2022|Responsive design template compatible with SMP scripts|
