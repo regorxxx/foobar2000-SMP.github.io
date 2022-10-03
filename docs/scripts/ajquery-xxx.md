@@ -25,7 +25,7 @@ hide: navigation
 - Playlist Manager: Full integration with SMP script; browse, load, lock, create, ... playlist files.
 
 !!! note
-	To use this plugin at its best [foo_run_main](https://marc2k3.github.io/run-main/)is required to run dyanmic contextual menus.
+	To use this plugin at its best, [foo_run_main](https://marc2k3.github.io/run-main/) is required. It's used to run dynamic contextual menus.
 
 ### Comparison to old ajquery
 - Full and tested responsive design.
