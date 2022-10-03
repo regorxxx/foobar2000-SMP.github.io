@@ -46,3 +46,4 @@ nav:
   - ListenBrainz: scripts/listenbrainz-smp.md
   - World Map: scripts/world-map-smp.md
   - Search by Distance: scripts/search-by-distance-smp.md
+  - ajquery-xxx: others/ajquery-xxx.md
