@@ -8,7 +8,7 @@ hide: navigation
 
 ## Overview
 
-[foo_httpcontrol](https://bitbucket.org/oblikoamorale/foo_httpcontrol/wiki/Home) template for [foobar2000](https://www.foobar2000.org) developed to be used in modern desktop or mobile browsers with responsive design; fully compatible with [Playlist-Tools-SMP](https://github.com/regorxxx/Playlist-Tools-SMP) and [Playlist-Manager-SMP](https://github.com/regorxxx/Playlist-Manager-SMP).
+[foo_httpcontrol](https://bitbucket.org/oblikoamorale/foo_httpcontrol/wiki/Home) template for [foobar2000](https://www.foobar2000.org) developed to be used in modern desktop or mobile browsers with responsive design; fully compatible with [Playlist-Tools-SMP](../../scripts/playlist-tools-smp) and [Playlist-Manager-SMP](../../scripts/playlist-manager-smp).
 
 ![ajquery-xxx](../images/aj.gif)
 
@@ -46,9 +46,9 @@ hide: navigation
 
 !!! question
 	Compatible with (SMP menus):  
-    - [Playlist Tools](scripts/playlist-tools-smp): Offers different pre-defefined examples for 
+    - [Playlist Tools](../../scripts/playlist-tools-smp): Offers different pre-defefined examples for 
 	intelligent playlist creation.  
-	- [ListenBrainz](scripts/listenbrainz-smp): Integrates Listenbrainz's feedback and recommendations.  
+	- [Playlist Manager](../../scripts/playlist-manager-smp): Integrates Listenbrainz's feedback and recommendations.  
 	Compatible with (buttons):  
 	- [foo_quicksearch](https://www.foobar2000.org/components/view/foo_quicksearch): Buttons to search for title, artist and genre queries.  
 	- [foo_youtube](https://fy.3dyd.com/home/): Buttons to search for acoustic versions, collaborations, tracks by artist, etc.  
