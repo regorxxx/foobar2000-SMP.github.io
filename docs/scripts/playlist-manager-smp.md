@@ -18,7 +18,8 @@ to save and load (auto)playlists on demand, synchronizing, ... along many more u
 - Manages Playlist files and AutoPlaylists.
 - AutoPlaylists: contains all functionality on Auto-playlist Manager by marc2003 plus more.
 - Smart Playlists: contains all functionality found on XBMC or Kodi.
-- [ListenBrainz](https://listenbrainz.org/) integration: sync user's playlists, import by playlist's MBID; track content resolution by Title, Recording MBID, ....
+- [ListenBrainz](https://listenbrainz.org/) integration: sync user's playlists, import by 
+playlist's MBID; track content resolution by Title, Recording MBID, ....
 - Complete documentation, FAQ and step by step guide (see 'readmes\playlist_manager.pdf').
 - Loads .m3u8, .m3u and .pls playlists x100 times faster than standard foobar.
 - Multiple exporting options: compatible with Foobar2000 mobile, Kodi and XBMC systems, etc.
@@ -33,6 +34,9 @@ to save and load (auto)playlists on demand, synchronizing, ... along many more u
 	entries, which allows to bind them to keyboard shortcuts, toolbar buttons
 	or executing them using command line.
 
+!!! info
+	Full documentation notes can be found at the <a href="https://github.com/regorxxx/Playlist-Manager-SMP/raw/main/readmes/playlist_manager.pdf" target="_blank" class="image fit" type="application/pdf">PDF Manual.</a>
+	
 !!! warning
 	.fpl playlists (native format) are read only and can not be auto-saved since
 	the format is closed source and there are no methods on Spider Monkey Panel
