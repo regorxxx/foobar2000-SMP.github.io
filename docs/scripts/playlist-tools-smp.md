@@ -48,7 +48,7 @@ so the buttons can be simply merged with your already existing toolbar panel eas
 
 !!! question
 	Compatible with (toolbar):  
-    - [Device Priority](scripts/device-priority-smp): Automates foobar2000's output devices.  
-    - [Search by Distance](scripts/search-by-distance-smp): Creates intelligent "spotify-like"
+    - [Device Priority](../../scripts/device-priority-smp): Automates foobar2000's output devices.  
+    - [Search by Distance](../../scripts/search-by-distance-smp): Creates intelligent "spotify-like"
 	playlist. Built-in here.  
-	- [ListenBrainz](scripts/listenbrainz-smp): Integrates Listenbrainz's feedback and recommendations.  
+	- [ListenBrainz](../../scripts/listenbrainz-smp): Integrates Listenbrainz's feedback and recommendations.  
