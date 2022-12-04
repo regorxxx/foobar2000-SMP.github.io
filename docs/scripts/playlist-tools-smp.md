@@ -26,7 +26,7 @@ The collection of scripts provided here are not only a direct replacement of Ran
 ### Features
 - Macros: allows to record and save the menus entries used, as a macro, to be called later.
 - Dynamic Queries: queries which adapt to the currently selected track. i.e. 
-placeholders tags are substituted with the actual values of the currently selected track.
+placeholders tags are substituted with the actual values of the currently selected track. Expands [foo_quicksearch](https://wiki.hydrogenaud.io/index.php?title=Foobar2000:Components/Quicksearch_UI_Element_%28foo_quicksearch%29) contextual menus functionality, and **works with multiple selection too**.
 - Pools: playlist creation similar to Random Pools component.  playlists \ library sources (pools) can be set.
 - [Harmonic mixing](https://en.wikipedia.org/wiki/Harmonic_mixing): Dj-like selection ordering by key or with special patterns. Compatible with Camelot, Open and Standard keys.
 - Fully configurable submenu entries: shift + left click on menu button allows to switch tools functionality.
