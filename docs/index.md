@@ -9,12 +9,12 @@ These scripts are meant for [foobar2000](https://www.foobar2000.org/) and
 
 |Script|Version|SMP|Release Date|Description|
 |:---|:---|:---|:---|:---|
-|[Playlist Manager](scripts/playlist-manager-smp)|v0.5.0-beta.13|1.6.1+|29th September 2022|Manage playlists, AutoPlaylists and Kodi playlists|
-|[Playlist Tools](scripts/playlist-tools-smp)|v3.0.0-beta.16|1.6.1+|29th September 2022|Spotify-like playlist creation, harmonic mixing, ...|
-|[Device Priority](scripts/device-priority-smp)|v1.4.1|1.6.1+|29th September 2022|Auto-switch output devices by order of priority|
-|[ListenBrainz](scripts/listenbrainz-smp)|v1.0.0|1.6.1+|01st October 2022|ListenBrainz integration and top tracks retrieval|
-|[World Map](scripts/world-map-smp)|v2.3.1|1.6.1+|29th September 2022|Show artist's country on map. Biography integration|
-|[Search by Distance](scripts/search-by-distance-smp)|v4.0.0|1.6.1+|29th September 2022|Find similar tracks by genre/style similarity|
+|[Playlist Manager](scripts/playlist-manager-smp)|https://img.shields.io/github/v/release/Regorxxx/Playlist-Manager-SMP?include_prereleases&label=%20|1.6.1+|https://img.shields.io/github/release-date/Regorxxx/Playlist-Manager-SMP?label=%20|Manage playlists, AutoPlaylists and Kodi playlists|
+|[Playlist Tools](scripts/playlist-tools-smp)|https://img.shields.io/github/v/release/Regorxxx/Playlist-Tools-SMP?include_prereleases&label=%20|1.6.1+|https://img.shields.io/github/release-date/Regorxxx/Playlist-Tools-SMP?label=%20|Spotify-like playlist creation, harmonic mixing, ...|
+|[Device Priority](scripts/device-priority-smp)|https://img.shields.io/github/v/release/Regorxxx/Device-Priority-SMP?include_prereleases&label=%201.6.1+|https://img.shields.io/github/release-date/Regorxxx/Device-Priority-SMP?label=%20|Auto-switch output devices by order of priority|
+|[ListenBrainz](scripts/listenbrainz-smp)|https://img.shields.io/github/v/release/Regorxxx/Listenbrainz-SMP?include_prereleases&label=%20|1.6.1+|https://img.shields.io/github/release-date/Regorxxx/Listenbrainz-SMP?label=%20|ListenBrainz integration and top tracks retrieval|
+|[World Map](scripts/world-map-smp)|https://img.shields.io/github/v/release/Regorxxx/World-Map-SMP?include_prereleases&label=%201.6.1+|https://img.shields.io/github/release-date/Regorxxx/World-Map-SMP?label=%20|Show artist's country on map. Biography integration|
+|[Search by Distance](scripts/search-by-distance-smp)|https://img.shields.io/github/v/release/Regorxxx/Search-By-Distance-SMP?include_prereleases&label=%20|1.6.1+|https://img.shields.io/github/release-date/Regorxxx/Search-By-Distance-SMP?label=%20|Find similar tracks by genre/style similarity|
 
 Unless otherwise stated, they should work on any foobar2000 version equal or greater than 1.4.
 
