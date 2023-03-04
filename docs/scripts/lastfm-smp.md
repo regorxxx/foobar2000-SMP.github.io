@@ -16,7 +16,7 @@ An implementation of [Last.fm](https://www.last.fm/) for [foobar2000](https://ww
 ![ListenBrainz](../images/lf.gif)
 
 ### Features
-- Integrates original L3v3L's script into Playlist Tools's toolbar.
+- Integrates original L3v3L's script into Playlist Tools's toolbar (design and features may differ).
 - Get top tracks by: Artist, Artist's radio, Similar Artist, Genre, Style, Folksonomy tags, Date, Moods, ...
 - Supports multi-values (i.e. if a track has 4 moods, allows to search for each individual value).
 - Covers all standard tags: GENRE, STYLE, 'ARTIST GENRE LAST.FM', 'ARTIST GENRE ALLMUSIC', ...
