@@ -46,4 +46,5 @@ nav:
   - ListenBrainz: scripts/listenbrainz-smp.md
   - World Map: scripts/world-map-smp.md
   - Search by Distance: scripts/search-by-distance-smp.md
+  - Last.fm: scripts/lastfm-smp.md
   - ajquery-xxx: others/ajquery-xxx.md

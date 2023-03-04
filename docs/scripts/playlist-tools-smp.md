@@ -52,3 +52,4 @@ so the buttons can be simply merged with your already existing toolbar panel eas
     - [Search by Distance](../../scripts/search-by-distance-smp): Creates intelligent "spotify-like"
 	playlist. Built-in here.  
 	- [ListenBrainz](../../scripts/listenbrainz-smp): Integrates Listenbrainz's feedback and recommendations.  
+	- [Last.fm](../../scripts/lastfm-smp): Integrates Last.fm playlists, recommendations, ...  

@@ -18,7 +18,7 @@ An implementation of [ListenBrainz](https://listenbrainz.org/) for [foobar2000](
 ### Features
 - Love/Hate tracks. Or clear any feedback set.
 - Find loved/hated tracks from server on library. [*]
-- Create playlist fron Top Listens, either by user or site-wide. [*]
+- Create playlist from Top Listens, either by user or site-wide. [*]
 - Create playlist based on user's recommedations: 'Top artist', 'Similar artist', 'Raw recommendations'. [*]
 - Requires an [user token](https://listenbrainz.org/profile/).
 
@@ -40,3 +40,4 @@ so the button can be simply merged with your already existing toolbar panel easi
 	playlist using high-level data from tracks and computing their similarity using genres/styles.  
     - [Playlist Tools](../../scripts/playlist-tools-smp): Offers different pre-defefined examples for 
 	intelligent playlist creation.  
+	- [Last.fm](../../scripts/lastfm-smp): Integrates Last.fm playlists, recommendations, ...  

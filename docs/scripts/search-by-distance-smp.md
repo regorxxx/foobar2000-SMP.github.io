@@ -57,3 +57,4 @@ There are 3 methods to calculate similarity between tracks: WEIGHT, GRAPH (see a
     - [Playlist Tools](../../scripts/playlist-tools-smp): Offers different pre-defefined examples for 
 	intelligent playlist creation.  
 	- [ListenBrainz](../../scripts/listenbrainz-smp): Integrates Listenbrainz's feedback and recommendations.  
+	- [Last.fm](../../scripts/lastfm-smp): Integrates Last.fm playlists, recommendations, ...  

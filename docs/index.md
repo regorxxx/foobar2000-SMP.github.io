@@ -15,6 +15,8 @@ These scripts are meant for [foobar2000](https://www.foobar2000.org/) and
 |[ListenBrainz](scripts/listenbrainz-smp)|[![ListenBrainz](https://img.shields.io/github/v/release/Regorxxx/Listenbrainz-SMP?include_prereleases&label=%20)](scripts/listenbrainz-smp)|1.6.1+|[![ListenBrainz](https://img.shields.io/github/release-date/Regorxxx/Listenbrainz-SMP?label=%20)](scripts/listenbrainz-smp)|ListenBrainz integration and top tracks retrieval|
 |[World Map](scripts/world-map-smp)|[![World Map](https://img.shields.io/github/v/release/Regorxxx/World-Map-SMP?include_prereleases&label=%20)](scripts/world-map-smp)|1.6.1+|[![World Map](https://img.shields.io/github/release-date/Regorxxx/World-Map-SMP?label=%20)](scripts/world-map-smp)|Show artist's country on map. Biography integration|
 |[Search by Distance](scripts/search-by-distance-smp)|[![Search by Distance](https://img.shields.io/github/v/release/Regorxxx/Search-By-Distance-SMP?include_prereleases&label=%20)](scripts/search-by-distance-smp)|1.6.1+|[![Search by Distance](https://img.shields.io/github/release-date/Regorxxx/Search-By-Distance-SMP?label=%20)](scripts/search-by-distance-smp)|Find similar tracks by genre/style similarity|
+|[Last.fm](scripts/lastm-smp)|[![lastm](https://img.shields.io/github/v/release/L3v3L/foo-last-list-smp?include_prereleases&label=%20)](scripts/lastfm-smp)|1.6.1+|[![Last.fm](https://img.shields.io/github/release-date/L3v3L/foo-last-list-smp?label=%20)](scripts/lastfm-smp)|Last.fm playlists integration|
+
 
 Unless otherwise stated, they should work on any foobar2000 version equal or greater than 1.4.
 
