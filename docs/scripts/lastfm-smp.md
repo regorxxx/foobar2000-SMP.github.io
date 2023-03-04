@@ -30,8 +30,9 @@ It's fully compatible with my other scripts which also use a toolbar (see at bot
 so the button can be simply merged with your already existing toolbar panel easily.
 
 ### Install as addon
-Requires original package to imported within SMP Package manager (no need to be active on a panel). 
-Then add a new button as usual from the 'Last.fm' sub-folder.
+Requires [package](https://github.com/L3v3L/foo-last-list-smp) to be imported within SMP Package manager (but there is no need
+to be active on a panel). Then add a new button as usual from the 'Last.fm' sub-folder. In case any dependency is missing, a 
+popup will be thrown.
 
 !!! question
 	Compatible with (toolbar):  
