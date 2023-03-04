@@ -20,7 +20,7 @@ An implementation of [Last.fm](https://www.last.fm/) for [foobar2000](https://ww
 - Gets top tracks by: Artist, Artist's radio, Similar Artist, Genre, Style, Folksonomy tags, Date, Moods, ...
 - Supports multi-values (i.e. if a track has 4 moods, allows to search for each individual value).
 - Covers most standard tags: GENRE, STYLE, MOOD, Picard tags, [WilB's Biography](https://github.com/Wil-B/Biography) tags, ...
-- Creates playlist from User's library,loved tracks or custom URLs.
+- Creates playlist from User's library, loved tracks or custom URLs.
 - Matches are retrieved from library and, optionally, from YouTube if [plugin](https://fy.3dyd.com/home/) is installed.
 - Does not require an user token or API.
 
