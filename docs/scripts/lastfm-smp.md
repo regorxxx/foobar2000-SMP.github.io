@@ -19,10 +19,10 @@ An implementation of [Last.fm](https://www.last.fm/) for [foobar2000](https://ww
 - Integrates original L3v3L's script into Playlist Tools's toolbar (design and features may differ).
 - Get top tracks by: Artist, Artist's radio, Similar Artist, Genre, Style, Folksonomy tags, Date, Moods, ...
 - Supports multi-values (i.e. if a track has 4 moods, allows to search for each individual value).
-- Covers all standard tags: GENRE, STYLE, 'ARTIST GENRE LAST.FM', 'ARTIST GENRE ALLMUSIC', ...
-- Create playlist from User's library or loved tracks.
-- Matches are retrieved from library and, optionally, from YouTube if plugin is installed.
-- Does not require an user token.
+- Covers most standard tags: GENRE, STYLE, MOOD, Picard tags, [WilB's Biography](https://github.com/Wil-B/Biography) tags, ...
+- Creates playlist from User's library,loved tracks or custom URLs.
+- Matches are retrieved from library and, optionally, from YouTube if [plugin](https://fy.3dyd.com/home/) is installed.
+- Does not require an user token or API.
 
 ### Buttons bar
 The button can be loaded within a toolbar or as an independent button. 
