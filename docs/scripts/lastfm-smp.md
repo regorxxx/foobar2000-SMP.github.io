@@ -4,7 +4,7 @@ hide: navigation
 
 # Last.fm
 
-[Download :material-download:](https://github.com/L3v3L/foo-last-list-smp){ .md-button }
+[Download :material-download:](https://github.com/regorxxx/Playlist-Tools-SMP){ .md-button }
 
 ## Overview
 
@@ -16,7 +16,7 @@ An implementation of [Last.fm](https://www.last.fm/) for [foobar2000](https://ww
 ![ListenBrainz](../images/lf.gif)
 
 ### Features
-- Integrates original L3v3L's script into Playlist Tools's toolbar (design and features may differ).
+- Integrates original [L3v3L's script](https://github.com/L3v3L/foo-last-list-smp) into Playlist Tools's toolbar (design and features may differ).
 - Gets top tracks by: Artist, Artist's radio, Similar Artist, Genre, Style, Folksonomy tags, Date, Moods, ...
 - Supports multi-values (i.e. if a track has 4 moods, allows to search for each individual value).
 - Covers most standard tags: GENRE, STYLE, MOOD, Picard tags,...
@@ -29,11 +29,6 @@ An implementation of [Last.fm](https://www.last.fm/) for [foobar2000](https://ww
 The button can be loaded within a toolbar or as an independent button. 
 It's fully compatible with my other scripts which also use a toolbar (see at bottom), 
 so the button can be simply merged with your already existing toolbar panel easily.
-
-### Install as addon
-Requires [package](https://github.com/L3v3L/foo-last-list-smp) to be imported within SMP Package manager (but there is no need
-to be active on a panel). Then add a new button as usual from the 'Last.fm' sub-folder. In case any dependency is missing, a 
-popup will be thrown.
 
 !!! question
 	Compatible with (toolbar):  
