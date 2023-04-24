@@ -26,7 +26,7 @@ An implementation of [ListenBrainz](https://listenbrainz.org/) for [foobar2000](
 [*] Involves content resolution by Artist, Title or Recording MBID. Displays found matches.
 
 !!! warning
-	Listens sync is not managed by this script. It's recommended to use
+	Listens syncing is not managed by this script. It's recommended to use
 	[foo_listenbrainz2](https://github.com/phw/foo_listenbrainz2).
 
 ### Buttons bar
