@@ -13,6 +13,7 @@ hide: navigation
 ![ajquery-xxx](../images/aj.gif)
 
 ### Features
+- Dynamic themes: Dark, light or dynamic colors based on album art palette similar to [Georgia-ReBORN](https://github.com/TT-ReBORN/Georgia-ReBORN).
 - Full playback controls: smart play/pause, stop, prev/next, random.
 - Extended controls: sort playlist, queue, etc.
 - Library browser: by path.
@@ -27,12 +28,14 @@ hide: navigation
 !!! note
 	To use this plugin at its best, [foo_run_main](https://marc2k3.github.io/run-main/) is required. It's used to run dynamic contextual menus.
 
+![image](../images/aj_1.png)
+
 ### Comparison to old ajquery
 - Full and tested responsive design.
 - Tile, artist, album tags are cut at display to soft-force one track per row.
 - General tweaks to UI placement, space usage, fonts (larger) and many QOL changes.
 - Rating is now shown on the playlist list for every item (stars).
-- Themes: dark/light. (new themes may be easily added editing the html)
+- Themes: dark/light and dynamic colors. (new themes may be easily added editing the html)
 - Default 20 items per page.
 - Artwork: non-playing and non-artwork found images are now animations.
 - Extended controls reworked: rating and Custom contextual menu Buttons.
@@ -43,6 +46,8 @@ hide: navigation
 - Toggleable log panel (usually used to display console log from foobar).
 - Query browser filtering.
 - Builtin documentation.
+
+![image](../images/aj_2.png)
 
 !!! question
 	Compatible with (SMP menus):  
