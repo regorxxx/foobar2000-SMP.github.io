@@ -20,7 +20,8 @@ hide: navigation
 - Query browser: by configured tags.
 - Artwork support: front cover or disc animation.
 - Console logging: able to read a txt file on server (for ex. the console log).
-- Contextual menus: able to run any contextual menu by name.
+- Contextual menus: on selected items by right clicking.
+- Run commands: able to run any contextual menu by name.
 - Rating: displayed on playlist and full tagging support.
 - Playlist Tools: Full integration with SMP script; all tools and menus, output and DSP selection.
 - Playlist Manager: Full integration with SMP script; browse, load, lock, create, ... playlist files.
@@ -34,6 +35,7 @@ hide: navigation
 - Full and tested responsive design.
 - Tile, artist, album tags are cut at display to soft-force one track per row.
 - General tweaks to UI placement, space usage, fonts (larger) and many QOL changes.
+- Contextual menus.
 - Rating is now shown on the playlist list for every item (stars).
 - Themes: dark/light and dynamic colors. (new themes may be easily added editing the html)
 - Default 20 items per page.
@@ -46,6 +48,8 @@ hide: navigation
 - Toggleable log panel (usually used to display console log from foobar).
 - Query browser filtering.
 - Builtin documentation.
+- Fixes to bugs on previous versions.
+- Updated to modern web-standards.
 
 ![image](../images/aj_2.png)
 
