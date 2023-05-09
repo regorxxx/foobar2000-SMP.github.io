@@ -25,6 +25,8 @@ A [foobar2000](https://www.foobar2000.org/) UI [Spider Monkey Panel](https://the
 	- Animations
 	- Refresh rate (not recommended anything below 100 ms except on really modern CPUs)
 
+![Seekbar with visualizer](../images/sk_visualizer.gif)
+
 ![Seekbar with ffprobe](../images/sk_02.gif)
 
 !!! question
