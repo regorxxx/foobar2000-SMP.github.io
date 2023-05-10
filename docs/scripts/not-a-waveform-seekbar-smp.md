@@ -12,7 +12,7 @@ A [foobar2000](https://www.foobar2000.org/) UI [Spider Monkey Panel](https://the
  seekbar, using [audiowaveform](https://github.com/bbc/audiowaveform) or [ffprobe](https://ffmpeg.org/ffprobe.html).
  It's based on RMS, peak levels, the actual waveform or visualization presets.
 
-![Seekbar with audiowaveform](../images/sk_01.gif)
+![Seekbar with visualizer](../images/sk_visualizer.gif)
 
 ## Features
 - Uses [audiowaveform](https://github.com/bbc/audiowaveform) by default (included).
@@ -25,7 +25,7 @@ A [foobar2000](https://www.foobar2000.org/) UI [Spider Monkey Panel](https://the
 	- Animations
 	- Refresh rate (not recommended anything below 100 ms except on really modern CPUs)
 
-![Seekbar with visualizer](../images/sk_visualizer.gif)
+![Seekbar with audiowaveform](../images/sk_01.gif)
 
 ![Seekbar with ffprobe](../images/sk_02.gif)
 
