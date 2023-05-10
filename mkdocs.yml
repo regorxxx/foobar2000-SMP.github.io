@@ -1,4 +1,4 @@
-site_name: regorxxx's Foobar2000 SMP Scripts
+site_name: &#91;regorxxx's Foobar2000 SMP Scripts&#93;(scripts/playlist-manager-smp)
 copyright: Copyright &copy; 2022 regorxxx
 theme:
   name: material
@@ -39,7 +39,7 @@ extra:
 extra_css:
   - stylesheets/extra.css
 nav:
-  - \[ALL\]: index.md
+  - &#91;ALL\&#93;: index.md
   - Playlist Manager: scripts/playlist-manager-smp.md
   - Playlist Tools: scripts/playlist-tools-smp.md
   - Device Priority: scripts/device-priority-smp.md
