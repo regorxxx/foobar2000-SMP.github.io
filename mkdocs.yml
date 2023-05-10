@@ -39,7 +39,7 @@ extra:
 extra_css:
   - stylesheets/extra.css
 nav:
-  - foobar2000 SMP Scripts: index.md
+  - [ALL]: index.md
   - Playlist Manager: scripts/playlist-manager-smp.md
   - Playlist Tools: scripts/playlist-tools-smp.md
   - Device Priority: scripts/device-priority-smp.md
