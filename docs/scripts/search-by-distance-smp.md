@@ -21,7 +21,14 @@ Creates playlists using high-level data from tracks similar to the currently sel
 according to genre, style, key, etc. You can choose whether this final selection is done 
 according to score, randomly, using [Harmonic mixing](https://en.wikipedia.org/wiki/Harmonic_mixing)
  rules, etc. All settings are configurable via button's menus (on customizable button) 
- or the properties panel (static buttons).
+ or the properties panel (static buttons). 
+ 
+Some usage examples:
+	- Explore similar music from the same era
+	- Follow the evolution of a genre during some period
+	- Create a playlist transitioning from one genre to another seamleslly
+	- Create an harmonic mix which sounds great no matter the genres mixed
+	- Just a random playlist with some coherence in its order and tracks
 
 !!! note
 	To use this plugin at its best and to benefit the most from your library, you will want to 
