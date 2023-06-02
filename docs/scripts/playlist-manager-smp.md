@@ -23,9 +23,10 @@ playlist's MBID; track content resolution by Title, Recording MBID, ....
 - Complete documentation, FAQ and step by step guide (see 'readmes\playlist_manager.pdf').
 - Loads .m3u8, .m3u and .pls playlists x100 times faster than standard foobar.
 - Multiple exporting options: compatible with Foobar2000 mobile, Kodi and XBMC systems, etc.
-- Group by categories, tags and inline searching.
+- Group by categories, tags and inline quick-searching.
 - Playlist Tags and actions. Track Auto-tagging.
-- Filters & Sorting.
+- Input search box with RegExp and track searching support.
+- Filters and Sorting (manually or by multiple algorithms).
 - Configurable UI.
 - Fully Wine - Unix - non IE SOs compatible.
 - Other scripts integration:
