@@ -27,7 +27,8 @@ playlist's MBID; track content resolution by Title, Recording MBID, ....
 - Playlist Tags and actions. Track Auto-tagging.
 - Input search box with RegExp and track searching support.
 - Filters and Sorting (manually or by multiple algorithms).
-- Configurable UI.
+- Customizable columns with playlist's metadata.
+- Fully configurable UI and shortcuts.
 - Fully Wine - Unix - non IE SOs compatible.
 - Other scripts integration:
 	- [Playlist-Tools-SMP](../../scripts/playlist-tools-smp): Pools may use tracks from playlists files.
