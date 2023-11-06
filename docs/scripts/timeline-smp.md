@@ -9,9 +9,8 @@ hide: navigation
 ## Overview
 
 A [foobar2000](https://www.foobar2000.org/) interactive UI 
-[Spider Monkey Panel](https://theqwertiest.github.io/foo_spider_monkey_panel/) 
-which displays a timeline according to your library map. Configurable by Title Format 
-and lets you generate playlists based on selection.
+[Spider Monkey Panel](https://theqwertiest.github.io/foo_spider_monkey_panel/) timeline of your library. 
+Configurable by Title Format, lets you generate playlists based on selection. Based on [Statistics-Framework-SMP](https://regorxxx.github.io/foobar2000-Framework-SMP.github.io/scripts/statistics-framework-smp/)
 
 ![Timeline UI](../images/tl_ui.png)
 
