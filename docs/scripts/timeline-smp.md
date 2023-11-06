@@ -28,4 +28,4 @@ and lets you generate playlists based on selection.
 - AutoPlaylist and Playlist creation on click over a point.
 - Fully Wine - Unix - non IE SOs compatible.
 
-![World Map usage](../images/tl.gif)
+![Timeline usage](../images/tl.gif)
