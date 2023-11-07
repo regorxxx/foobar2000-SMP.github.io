@@ -10,7 +10,7 @@ hide: navigation
 
 A [foobar2000](https://www.foobar2000.org/) interactive Timeline 
 [Spider Monkey Panel](https://theqwertiest.github.io/foo_spider_monkey_panel/) of your library. 
-Configurable by Title Format, lets you generate playlists based on selection. Based on [Statistics-Framework-SMP](https://regorxxx.github.io/foobar2000-Framework-SMP.github.io/scripts/statistics-framework-smp/)
+Configurable by Title Format, lets you generate playlists clicking on it. Based on [Statistics-Framework-SMP](https://regorxxx.github.io/foobar2000-Framework-SMP.github.io/scripts/statistics-framework-smp/)
 
 ![Timeline UI](../images/tl_ui.jpg)
 
@@ -21,8 +21,10 @@ Configurable by Title Format, lets you generate playlists based on selection. Ba
 - Asynchronous data calculations (UI is not blocked).
 - Point statistics.
 - Scroll with buttons and mouse dragging.
-- Zoom with mouse wheel.
+- Zoom with mouse wheel and button.
 - Configurable background (cover, colors, gradient, ...).
+	- Color palettes and schemes from [colorbrewer](https://colorbrewer2.org).
+	- Colorblind friendly.
 - Tool-tip shows multiple info about the point selected.
 - AutoPlaylist and Playlist creation on click over a point.
 - Fully Wine - Unix - non IE SOs compatible.
