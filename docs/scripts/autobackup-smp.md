@@ -2,7 +2,7 @@
 hide: navigation
 ---
 
-# Timeline
+# AutoBackup
 
 [Download :material-download:](https://github.com/regorxxx/AutoBackup-SMP){ .md-button }
 
@@ -16,17 +16,17 @@ Replacement of [foo_jesus](https://www.foobar2000.org/components/view/foo_jesus)
 
 ### Features
 - Saves configuration ("File\Save Configuration"):
-  - Whole configuration subfolder.
-  - Media library database (database.-).
-  - Playlists.
-  - Additional data managed by other components (for example current theme or playback statistics).
+	- Whole configuration subfolder.
+	- Media library database (database.-).
+	- Playlists.
+	- Additional data managed by other components (for example current theme or playback statistics).
 - After saving, a backup of the changed files is created, as a ZIP archive (using 7zip).
 - Rules to periodically save and backup can be set:
-  - While playing (every X min, 0 = off).
-  - When playback stops (every X min, 0 = off).
-  - Always, since last autosave (every X min, 0 = off).
-  - On startup, after X minutes (backup only, 0 = off).
-  - Every X tracks (0 = off).
+	- While playing (every X min, 0 = off).
+	- When playback stops (every X min, 0 = off).
+	- Always, since last autosave (every X min, 0 = off).
+	- On startup, after X minutes (backup only, 0 = off).
+	- Every X tracks (0 = off).
 - Files and folders to backup can be set by name and mask (for example 'js_data\\playlistManager_-').
 - Output Zip archive path and name is configurable.
 - Backups to keep can be set by number and/or total file size.
