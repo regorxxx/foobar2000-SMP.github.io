@@ -53,3 +53,4 @@ so the buttons can be simply merged with your already existing toolbar panel eas
 	playlist. Built-in here.  
 	- [ListenBrainz](../../scripts/listenbrainz-smp): Integrates Listenbrainz's feedback and recommendations.  
 	- [Last.fm](../../scripts/lastfm-smp): Integrates Last.fm playlists, recommendations, ...  
+	- [AutoBackup](../../scripts/autobackup-smp): Automatic backups of configuration files.  

@@ -38,3 +38,4 @@ so the button can be simply merged with your already existing toolbar panel easi
     - [Playlist Tools](../../scripts/playlist-tools-smp): Offers different pre-defefined examples for 
 	intelligent playlist creation.  
 	- [ListenBrainz](../../scripts/listenbrainz-smp): Integrates Listenbrainz's feedback and recommendations.  
+	- [AutoBackup](../../scripts/autobackup-smp): Automatic backups of configuration files.  

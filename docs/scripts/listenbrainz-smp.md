@@ -42,3 +42,4 @@ so the button can be simply merged with your already existing toolbar panel easi
     - [Playlist Tools](../../scripts/playlist-tools-smp): Offers different pre-defefined examples for 
 	intelligent playlist creation.  
 	- [Last.fm](../../scripts/lastfm-smp): Integrates Last.fm playlists, recommendations, ...  
+	- [AutoBackup](../../scripts/autobackup-smp): Automatic backups of configuration files.  
