@@ -10,7 +10,7 @@ hide: navigation
 
 User listening statistics for [foobar2000](https://www.foobar2000.org), using [Spider Monkey Panel](https://theqwertiest.github.io/foo_spider_monkey_panel). Analyzes user listening habits and outputs a report similar to Spotify's wrapped and personalized playlists.
 
-![Wrapped UI](../images/wp_1.jpg)![Wrapped UI](../images/wp_2.jpg)
+![Wrapped UI](../images/wp_1.jpg) ![Wrapped UI](../images/wp_2.jpg)
 
 !!! note
 	To use this plugin at its best and to benefit the most from your library, you will want to 
@@ -40,11 +40,12 @@ User listening statistics for [foobar2000](https://www.foobar2000.org), using [S
 	* Top Countries
 	* Suggested Genres (you may like) (ListenBrainz)
 	* Suggested Artists (you make like) (ListenBrainz)
+- To get statistics for previous years, Enhanced Playback Statistics and Playback Statistics must have been installed on that period.
 - Fully Wine - Unix - non IE SOs compatible.
 - Configurable UI and accessibility design: most of the UI is configurable (size, colors, position, draggable buttons).
  All the UI is managed within menus, so it may be used with a narrator (for blindness).
 
-![Wrapped UI](../images/wp_3.jpg)![Wrapped UI](../images/wp_4.jpg)
+![Wrapped UI](../images/wp_3.jpg) ![Wrapped UI](../images/wp_4.jpg)
 
 ### Buttons bar
 The button can be loaded within a toolbar or as an independent button. 
