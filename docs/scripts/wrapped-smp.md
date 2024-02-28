@@ -2,7 +2,7 @@
 hide: navigation
 ---
 
-# Timeline
+# Wrapped
 
 [Download :material-download:](https://github.com/regorxxx/Wrapped-SMP){ .md-button }
 

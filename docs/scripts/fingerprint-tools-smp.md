@@ -2,7 +2,7 @@
 hide: navigation
 ---
 
-# Timeline
+# Fingerprint Tools
 
 [Download :material-download:](https://github.com/regorxxx/Fingerprint-Tools-SMP){ .md-button }
 
