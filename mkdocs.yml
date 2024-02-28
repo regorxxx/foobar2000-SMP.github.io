@@ -49,5 +49,7 @@ nav:
   - Not a Waveform Seekbar: scripts/not-a-waveform-seekbar-smp.md
   - Last.fm: scripts/lastfm-smp.md
   - Timeline: scripts/timeline-smp.md
+  - Wrapped: scripts/wrapped-smp.md
+  - Fingerprint Tools: scripts/fingrerpint-tools-smp.md
   - AutoBackup: scripts/autobackup-smp.md
   - ajquery-xxx: others/ajquery-xxx.md

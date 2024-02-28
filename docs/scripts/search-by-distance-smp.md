@@ -58,6 +58,11 @@ There are 3 methods to calculate similarity between tracks: WEIGHT, GRAPH (see a
 
 ![Search by Distance Graph](../images/sbd_graph.gif)
 
+### Buttons bar
+The buttons can be loaded within a toolbar or as an independent button. 
+It's fully compatible with my other scripts which also use a toolbar (see at bottom), 
+so the button can be simply merged with your already existing toolbar panel easily.
+
 !!! question
 	Compatible with (toolbar):  
     - [Device Priority](../../scripts/device-priority-smp): Automates foobar2000's output devices.  
@@ -66,3 +71,5 @@ There are 3 methods to calculate similarity between tracks: WEIGHT, GRAPH (see a
 	- [ListenBrainz](../../scripts/listenbrainz-smp): Integrates Listenbrainz's feedback and recommendations.  
 	- [Last.fm](../../scripts/lastfm-smp): Integrates Last.fm playlists, recommendations, ...  
 	- [AutoBackup](../../scripts/autobackup-smp): Automatic backups of configuration files.  
+	- [Wrapped](../../scripts/wrapped-smp): User listening statistics and recommendations.  
+	- [Fingerprint Tools](../../scripts/fingerprint-tools-smp): ChromaPrint and FooId fingerprinting tools and search.  

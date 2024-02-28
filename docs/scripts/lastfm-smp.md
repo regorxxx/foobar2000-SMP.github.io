@@ -39,3 +39,5 @@ so the button can be simply merged with your already existing toolbar panel easi
 	intelligent playlist creation.  
 	- [ListenBrainz](../../scripts/listenbrainz-smp): Integrates Listenbrainz's feedback and recommendations.  
 	- [AutoBackup](../../scripts/autobackup-smp): Automatic backups of configuration files.  
+	- [Wrapped](../../scripts/wrapped-smp): User listening statistics and recommendations.  
+	- [Fingerprint Tools](../../scripts/fingerprint-tools-smp): ChromaPrint and FooId fingerprinting tools and search.  

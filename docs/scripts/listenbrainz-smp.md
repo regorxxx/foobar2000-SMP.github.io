@@ -43,3 +43,5 @@ so the button can be simply merged with your already existing toolbar panel easi
 	intelligent playlist creation.  
 	- [Last.fm](../../scripts/lastfm-smp): Integrates Last.fm playlists, recommendations, ...  
 	- [AutoBackup](../../scripts/autobackup-smp): Automatic backups of configuration files.  
+	- [Wrapped](../../scripts/wrapped-smp): User listening statistics and recommendations.  
+	- [Fingerprint Tools](../../scripts/fingerprint-tools-smp): ChromaPrint and FooId fingerprinting tools and search.  
