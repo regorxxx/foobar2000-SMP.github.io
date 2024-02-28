@@ -50,6 +50,6 @@ nav:
   - Last.fm: scripts/lastfm-smp.md
   - Timeline: scripts/timeline-smp.md
   - Wrapped: scripts/wrapped-smp.md
-  - Fingerprint Tools: scripts/fingrerpint-tools-smp.md
+  - Fingerprint Tools: scripts/fingerprint-tools-smp.md
   - AutoBackup: scripts/autobackup-smp.md
   - ajquery-xxx: others/ajquery-xxx.md
