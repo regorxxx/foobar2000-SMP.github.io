@@ -35,3 +35,8 @@
 	-webkit-mask-image: var(--md-admonition-icon--note);
 	mask-image: var(--md-admonition-icon--note);
 }
+
+.center {
+	display: block;
+	margin: 0 auto;
+}
