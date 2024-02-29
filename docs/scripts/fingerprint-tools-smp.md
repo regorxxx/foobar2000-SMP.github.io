@@ -10,7 +10,7 @@ hide: navigation
 
 [Spider Monkey Panel](https://theqwertiest.github.io/foo_spider_monkey_panel) Script for [foobar2000](https://www.foobar2000.org), built within a button. [ChromaPrint](https://acoustid.org/chromaprint) and [fooID](https://hydrogenaud.io/index.php/topic,65185.0.html) tools to compare fingerprints, search on library or tagging.
 
-![Timeline UI](../images/tl_ui.jpg)
+![ChromaPrint search](../images/fp_1.gif)
 
 ### Features
 - [ChromaPrint](https://acoustid.org/chromaprint) support: tagging (with fpcalc) and full processing without binaries.
@@ -23,7 +23,7 @@ hide: navigation
 - AutoPlaylist and Playlist creation on click over a point.
 - Fully Wine - Unix - non IE SOs compatible.
 
-![Timeline usage](../images/tl.gif)
+![Fingprint comparison](../images/fp_2.gif)
 
 !!! question
 	Compatible with (toolbar):  
