@@ -29,8 +29,8 @@ hide: navigation
 	Compatible with (toolbar):  
     - [Device Priority](../../scripts/device-priority-smp): Automates foobar2000's output devices.  
     - [Search by Distance](../../scripts/search-by-distance-smp): Creates intelligent "spotify-like"
-	playlist.
-    - [Playlist Tools](../../scripts/playlist-tools-smp): Offers different pre-defefined examples for 
+	playlist.  
+    - [Playlist Tools](../../scripts/playlist-tools-smp): Offers different pre-defefined examples for  
 	intelligent playlist creation.  
 	- [ListenBrainz](../../scripts/listenbrainz-smp): Integrates Listenbrainz's feedback and recommendations.  
 	- [Last.fm](../../scripts/lastfm-smp): Integrates Last.fm playlists, recommendations, ...  
