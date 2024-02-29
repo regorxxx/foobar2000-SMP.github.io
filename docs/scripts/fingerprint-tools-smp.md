@@ -23,7 +23,7 @@ hide: navigation
 - AutoPlaylist and Playlist creation on click over a point.
 - Fully Wine - Unix - non IE SOs compatible.
 
-![Fingprint comparison](../images/fp_2.gif)
+![Fingerprint comparison](../images/fp_2.gif)
 
 !!! question
 	Compatible with (toolbar):  
