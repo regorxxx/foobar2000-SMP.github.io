@@ -2,7 +2,7 @@
 hide: navigation
 ---
 
-# Timeline
+# Timeline-SMP
 
 [Download :material-download:](https://github.com/regorxxx/Timeline-SMP){ .md-button }
 

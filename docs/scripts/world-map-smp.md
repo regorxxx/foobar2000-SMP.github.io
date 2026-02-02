@@ -2,7 +2,7 @@
 hide: navigation
 ---
 
-# World Map
+# World-Map-SMP
 
 [Download :material-download:](https://github.com/regorxxx/World-Map-SMP){ .md-button }
 

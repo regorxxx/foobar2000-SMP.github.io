@@ -2,7 +2,7 @@
 hide: navigation
 ---
 
-# Playlist Manager
+# Playlist-Manager-SMP
 
 [Download :material-download:](https://github.com/regorxxx/Playlist-Manager-SMP){ .md-button }
 

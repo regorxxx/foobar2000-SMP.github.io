@@ -2,7 +2,7 @@
 hide: navigation
 ---
 
-# Not a Waveform Seekbar
+# Not-A-Waveform-Seekbar-SMP
 
 [Download :material-download:](https://github.com/regorxxx/Not-A-Waveform-Seekbar-SMP){ .md-button }
 
