@@ -12,7 +12,7 @@ Volume bar and seekbar for [foobar2000](https://www.foobar2000.org/) and [Spider
  [JSplitter](https://foobar2000.ru/forum/viewtopic.php?t=6378), with theme support and custom actions. 
 
 <p align="center">
-<img src="../../images/vs_01.gif">
+<img src="../../images/vs_1.gif">
 </p>
 
 ### Features
@@ -27,9 +27,9 @@ Volume bar and seekbar for [foobar2000](https://www.foobar2000.org/) and [Spider
 - Automatically check for updates (configurable).
 
 <p align="center">
-<img src="../../images/vs_02.png">
+<img src="../../images/vs_2.png">
 </p>
 
 <p align="center">
-<img src="../../images/vs_03.png">
+<img src="../../images/vs_3.png">
 </p>
