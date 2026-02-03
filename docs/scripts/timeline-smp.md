@@ -9,8 +9,10 @@ hide: navigation
 ## Overview
 
 A [foobar2000](https://www.foobar2000.org/) interactive Timeline 
-[Spider Monkey Panel](https://theqwertiest.github.io/foo_spider_monkey_panel/) of your library. 
-Configurable by Title Format, lets you generate playlists clicking on it. Based on [Statistics-Framework-SMP](https://regorxxx.github.io/foobar2000-Framework-SMP.github.io/scripts/statistics-framework-smp/)
+[Spider Monkey Panel](https://theqwertiest.github.io/foo_spider_monkey_panel) /
+ [JSplitter](https://foobar2000.ru/forum/viewtopic.php?t=6378) of your library. 
+Configurable by Title Format, lets you generate playlists clicking on it. 
+Based on [Statistics-Framework-SMP](https://regorxxx.github.io/foobar2000-Framework-SMP.github.io/scripts/statistics-framework-smp/)
 
 ![Timeline UI](../images/tl_ui.jpg)
 

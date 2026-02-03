@@ -9,8 +9,9 @@ hide: navigation
 ## Overview
 
 A playlist manager for [foobar2000](https://www.foobar2000.org/) and 
-[Spider Monkey Panel](https://theqwertiest.github.io/foo_spider_monkey_panel/)
-to save and load (auto)playlists on demand, synchronizing, ... along many more utilities.
+[Spider Monkey Panel](https://theqwertiest.github.io/foo_spider_monkey_panel) /
+ [JSplitter](https://foobar2000.ru/forum/viewtopic.php?t=6378) to save and load (auto)playlists on demand,
+ synchronizing, ... along many more utilities.
 
 ![Playlist Manager UI](../images/pm.gif)
 

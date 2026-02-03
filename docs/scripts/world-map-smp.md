@@ -9,7 +9,8 @@ hide: navigation
 ## Overview
 
 A [foobar2000](https://www.foobar2000.org/) UI 
-[Spider Monkey Panel](https://theqwertiest.github.io/foo_spider_monkey_panel/) 
+[Spider Monkey Panel](https://theqwertiest.github.io/foo_spider_monkey_panel) /
+ [JSplitter](https://foobar2000.ru/forum/viewtopic.php?t=6378)
 which displays current artist's country on the world map and lets you generate 
 autoplaylists based on selection and locale tag saving when integrated along
  [WilB's Biography Script](https://github.com/Wil-B/Biography).

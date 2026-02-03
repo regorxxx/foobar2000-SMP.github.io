@@ -8,9 +8,9 @@ hide: navigation
 
 ## Overview
 
-A [foobar2000](https://www.foobar2000.org/) UI [Spider Monkey Panel](https://theqwertiest.github.io/foo_spider_monkey_panel/)
- seekbar, using [audiowaveform](https://github.com/bbc/audiowaveform) or [ffprobe](https://ffmpeg.org/ffprobe.html).
- It's based on RMS, peak levels, the actual waveform or visualization presets.
+A [foobar2000](https://www.foobar2000.org/) UI [Spider Monkey Panel](https://theqwertiest.github.io/foo_spider_monkey_panel) /
+ [JSplitter](https://foobar2000.ru/forum/viewtopic.php?t=6378) seekbar, using [audiowaveform](https://github.com/bbc/audiowaveform)
+ or [ffprobe](https://ffmpeg.org/ffprobe.html). It's based on RMS, peak levels, the actual waveform or visualization presets.
 
 ![Seekbar with visualizer](../images/sk_visualizer.gif)
 
