@@ -41,6 +41,7 @@ extra_css:
   - stylesheets/extra.css
 nav:
   - Infinity Tools: scripts/infinity-tools-smp.md
+  - Library Tree: scripts/library-tree-smp.md
   # - Playlist Tools: scripts/playlist-tools-smp.md
   # - Device Priority: scripts/device-priority-smp.md
   # - ListenBrainz: scripts/listenbrainz-smp.md
