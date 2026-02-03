@@ -14,7 +14,9 @@ playback controls, removing duplicates, wrapped, statistics report, advanced pla
 genre analysis, "spotify-like" playlist creation, ... Infinite possibilities. Previous users of my scripts will notice
  this is a merge of all the previous toolbar scripts, for simplicity, into a new package format.
 
-![Playlist Tools example 1](../images/pt_01.gif)
+<p align="center">
+<img src="../images/it_1.gif">
+</p>
 
 !!! note
 	To use this plugin at its best and to benefit the most from your library, you will want to make sure
@@ -47,4 +49,4 @@ genre analysis, "spotify-like" playlist creation, ... Infinite possibilities. Pr
 The package features a collection of buttons which can be loaded within a toolbar; i.e. you can choose the 
 buttons you need and add them to the UI like DUI/CUI toolbars.
 
-![Playlist Tools example 1](../images/it_1.gif)
+![Playlist Tools example 1](../images/pt_01.gif)
